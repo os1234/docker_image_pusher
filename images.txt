@@ -1,2 +1,1 @@
-nyanmisaka/jellyfin
-jenkins/jenkins:lts-jdk21
+mysql:8.0.40
